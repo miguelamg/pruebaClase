@@ -1,4 +1,5 @@
 // Práctica de la semana
+// ¡Hoy es viernes!!
 
 package ejecuta;
 
