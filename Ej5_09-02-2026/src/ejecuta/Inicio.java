@@ -1,3 +1,4 @@
+// Último cambio 10/02/2026 
 package ejecuta;
 
 import java.util.Scanner;
