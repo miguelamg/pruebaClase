@@ -1,8 +1,6 @@
-// Último cambio 10/02/2026 
 package ejecuta;
 
 import java.util.Scanner;
-
 import clases.Cuenta;
 import clases.CuentaException;
 
@@ -23,7 +21,7 @@ public class Inicio
 					+ "Introduce una opción: ";
 		
 		Scanner sc = new Scanner(System.in);
-		int opcion = 0;
+		int opcion = 0; // opción que introduce el usuario por teclado
 		Cuenta miCuenta = null;
 		long dinero;
 		long dineroIngresado;
